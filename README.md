@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cryptohumano on web3 environment, but I'm j3rga at the videogames, and offline well, Edgar, 30 y.o
+- 👋 Hi, I’m @cryptohumano on web3 environment, but I'm j3rga at the videogames, and offline, Edgar, 30 y.o, mexican.
 - 👀 I’m interested in blockchain, SSIs, AI, IoT, SDGs 2030 and the use of it to reduce inequity in the world.
 - 🌱 I’m currently learning JavaScript, HTML, CSS, pentesting.
 - 💞️ I’m looking for CTO co-founder for a Self Sovereign Identity project in Mexico.
